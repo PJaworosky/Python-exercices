@@ -1,0 +1,7 @@
+n=int(input('Digite um número: '))
+d=2*n
+t=3*n
+r=n**(1/2)
+print('O dobro de {} é {}.'.format(n, d))
+print('O triplo de {} é {}.'.format(n, t))
+print('A raiz quadrada de {} é {:.2f}.'.format(n, r))
