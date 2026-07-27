@@ -49,7 +49,7 @@ python-exercises/
 ## 🛠️ Technologies
 
 * Python 3
-* Visual Studio Code
+* Pycharm
 * Git
 * GitHub
 
@@ -117,6 +117,10 @@ This repository is intended for learning purposes. Suggestions and constructive 
 ## 📄 License
 
 This project is available for educational purposes.
+
+## Conclusão
+
+✅ Mundo 1 - Fundamentos (40 horas) - Concluído em julho de 2026.
 
 ---
 
